@@ -284,7 +284,7 @@ All components maintain their original licenses and attributions. We credit:
 - **GitHub Discussions**: Share ideas and ask questions
 - **Issue Tracker**: Report bugs or request features
 - **Discord Server**: Join our design community (Coming Soon)
-- **Twitter**: Follow [@OpenVibeDesign](https://twitter.com/OpenVibeDesign) (Coming Soon)
+- **Twitter**: Follow us on Twitter (Coming Soon)
 
 ---
 
@@ -318,7 +318,7 @@ openvibe generate --style glassmorphism --components card,button
 ```
 
 ### Web Interface (Coming Soon)
-Visit [openvibe.design](https://openvibe.design) to:
+Visit our website (currently in development) to:
 - Browse the component library
 - Create custom style combinations
 - Generate AI prompts instantly
