@@ -35,6 +35,6 @@ The proposed generator attribution is retained here as an example, not as a feat
 
 The concept's sample prompts also require credit to OpenVibeDesignSystem and UIverse.io. Such a project credit does not replace individual component authors or their license notices.
 
-## Development and AI assistance
+## Documentation
 
-The default-branch history includes contributions explicitly attributed to GitHub Copilot ([example](https://github.com/ProfessorEngineergit/OpenVibeDesignSystem/commit/04359ebae391ab45731b3c99813df5a714efbf56)). This documents AI involvement in those contributions; it does not establish the origin of every line or independent validation. Existing author, co-author and session records are retained.
+GitHub Copilot contributed to the documentation ([record](https://github.com/ProfessorEngineergit/OpenVibeDesignSystem/commit/172983e945c9c7a05a75cefb5bdccc469f213ac4)). This does not establish AI-generated application code.
